@@ -2,22 +2,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I'm Farhan Ali :octocat: </h1>
 <!-- Tagline -->
 <h3 align="center">Flutter Developer @ TxLabz from Lahore, Pakistan</h3>
-
-
-<!-- Badge -->
-<div align="center" >
-
-[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
-
-</div>
-
-<!-- 
-<!-- Badges -->
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
-</div>
 <hr/> -->
 
 <!-- Who I am Section -->
@@ -61,7 +45,7 @@
 - 🏅 Conducted boot camps on flutter for different communities
 
 <!-- Tools and Technology Section -->
-<h2 align="center">Tools and Technologies 🛠</h2>
+<!-- <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -70,10 +54,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=git&logoColor=white" />
 <br>
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div>
- -->
+<br> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+</div> -->
+
 <!-- Github Stats Section -->
 <!-- <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
@@ -90,4 +74,4 @@
 <!-- My Contribution Section -->
 <h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
-![snake gif](https://github.com/ShahzadUmarBaig/ShahzadUmarBaig/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake gif](https://github.com/ShahzadUmarBaig/ShahzadUmarBaig/blob/output/github-contribution-grid-snake.svg) --> -->
