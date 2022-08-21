@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I'm Farhan Ali :octocat: </h1>
 <!-- Tagline -->
 <h3 align="center">Flutter Developer @ TxLabz from Lahore, Pakistan</h3>
-<hr/> -->
+<hr/> 
 
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
@@ -54,9 +54,9 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=git&logoColor=white" />
 <br>
-<br> -->
+<br> 
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
-</div> -->
+</div>
 
 <!-- Github Stats Section -->
 <!-- <h2 align="center">Github Stats ⚡</h2>
@@ -72,6 +72,6 @@
 </p>
 
 <!-- My Contribution Section -->
-<h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
-
-<!-- ![snake gif](https://github.com/ShahzadUmarBaig/ShahzadUmarBaig/blob/output/github-contribution-grid-snake.svg) --> -->
+<!-- <h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
+ -->
+<!-- ![snake gif](https://github.com/ShahzadUmarBaig/ShahzadUmarBaig/blob/output/github-contribution-grid-snake.svg) -->
