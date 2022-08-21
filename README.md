@@ -37,12 +37,12 @@
 </div>
 
 <!-- Some Acomplishments Section-->
-<h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
+<!-- <h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
 
 - 🥇 Certified Flutter Developer from London App Brewery
 - 🥈 Ex Core Team Member @ Developer Students Club SMIU by Google
 - 🥉 Ex Beta Microsoft Learn Student Ambassador
-- 🏅 Conducted boot camps on flutter for different communities
+- 🏅 Conducted boot camps on flutter for different communities -->
 
 <!-- Tools and Technology Section -->
 <!-- <h2 align="center">Tools and Technologies 🛠</h2>
